@@ -1,6 +1,6 @@
 # book-search-app
 
-## Build Setup
+Webシステム設計演習で作成した書店ECサイト内書籍検索機能のソースコード
 
 ```bash
 # install dependencies
